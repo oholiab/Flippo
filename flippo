@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+reset = "\r\e[K"
+
+STDOUT.sync = true
+print '(ヽ°-°)ヽ┳━┳'
+sleep 1
+print reset
+print '(╯ °□°）╯︵ ┻━┻'
+sleep 1
+print "\n"
