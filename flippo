@@ -4,16 +4,22 @@
 reset = "\r\e[K"
 
 STDOUT.sync = true
+print '         ┳━┳     '
+sleep 1
+print reset
+print '°-°)     ┳━┳     '
+sleep 1
+print reset
 print '(ヽ°-°)ヽ┳━┳     '
 sleep 1
 print reset
 print '(╯ °□°）╯︵ ┻━┻  '
 sleep 1
 print reset
-print 'ﾉ(°-°ﾉ)     ┻━┻  '
+print ' (°-° )     ┻━┻  '
 sleep 1
 print reset
-print '-°ﾉ)        ┻━┻  '
+print '-° )        ┻━┻  '
 sleep 1
 print reset
 print '            ┻━┻  '
