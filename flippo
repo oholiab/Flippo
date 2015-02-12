@@ -9,4 +9,10 @@ sleep 1
 print reset
 print '(╯ °□°）╯︵ ┻━┻'
 sleep 1
+print 'ﾉ(°-°ﾉ)     ┻━┻'
+sleep 1
+print '-°ﾉ)        ┻━┻'
+sleep 1
+print '            ┻━┻'
+sleep 1
 print "\n"
